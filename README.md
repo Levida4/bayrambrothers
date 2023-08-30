@@ -1,2 +1,2 @@
 # bayrambrothers
-learn git commands
+learn git commands.
